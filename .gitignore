@@ -1,0 +1,7 @@
+# Distribution repository: only reviewed documentation may be committed.
+*
+!/.gitignore
+!/README.md
+!/安装说明.md
+!/THIRD-PARTY-NOTICES.md
+!/SHA256SUMS.txt
